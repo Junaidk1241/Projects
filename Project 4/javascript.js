@@ -22,3 +22,7 @@ console.log(numbr);
 
 let number=["Jamshid khan","Wajid Khan","atta khan"];
 console.log(number);
+
+
+
+..
